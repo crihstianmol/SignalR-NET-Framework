@@ -1,6 +1,6 @@
 This project is a Real Time Chat in C# and Net Framework 4.7
 
-Constructed with MVC And Signal R Web Sockets
+Constructed with Signal R Web Sockets
 
 
 ### DISCLAIMER
